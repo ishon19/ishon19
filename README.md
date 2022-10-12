@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Flutter, Java/TypeScript**
 
-- 📫 How to reach me **shreyans.pathak@gmail.com**
+- 📫 Reach me at **shreyans.pathak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
