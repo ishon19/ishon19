@@ -8,10 +8,6 @@ I'm working as a software engineer at Green Action Studio. I'm passionate about 
 - Frameworks: React, Spring Boot
 - Tools: Docker, Git, AWS
 
-## Education
-- Degree, University, Year
-- Any relevant courses or certifications
-
 ## Let's Connect
 - LinkedIn: [Shreyans Pathak](https://www.linkedin.com/in/shreyans-pathak)
 - Email: [shreyans.pathak@gmail.com](mailto:shreyans.pathak@gmail.com)
