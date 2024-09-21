@@ -1,7 +1,7 @@
 # Hello, I'm Shreyans! 👋
 
 ## About Me
-I'm working as a software engineer at Green Action Studio. I'm passionate about web and cross-platform mobile app development.
+I'm working as a software engineer at Green Action Studio building next-gen EV charging platform. I'm passionate about web and cross-platform mobile app development.
 
 ## Technologies and Skills
 - Languages: TypeScript, Python, JavaScript, Java
