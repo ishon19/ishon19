@@ -12,14 +12,14 @@ Selected PRs merged across language standards, runtimes, and frameworks:
 
 | Project | Contribution |
 |---|---|
-| [nodejs/node](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Aishon19+is%3Amerged) | `WeakSet` / `WeakMap` comparison docs |
-| [tc39/ecma262](https://github.com/tc39/ecma262/pull/3393) | ECMAScript spec: fix `Number::toString` link |
-| [pytorch/pytorch](https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3Aishon19) | Reserved-keyword arg validation; `ProcessGroupGloo` type stub fix |
-| [swiftlang/swift](https://github.com/swiftlang/swift/pull/76223) | Comparable conformance for C++ strings |
-| [flutter/flutter](https://github.com/flutter/flutter/pull/154473) | `ListTile` → `CupertinoListTile` migration |
-| [mui/material-ui](https://github.com/mui/material-ui/pull/43468) | `InitColorSchemeScript`: `let`/`const` over `var` |
-| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise/pull/2887) | UX: autofocus on the add-node search input |
-| [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly/pulls?q=is%3Apr+author%3Aishon19+is%3Amerged) | CSS class APIs for block styling (4 PRs) |
+| nodejs/node | [`WeakSet` / `WeakMap` comparison docs](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Aishon19+is%3Amerged) and more.. |
+| tc39/ecma262 | [ECMAScript spec: fix `Number::toString` link](https://github.com/tc39/ecma262/pull/3393) |
+| pytorch/pytorch | [Reserved-keyword arg validation; `ProcessGroupGloo` type stub fix](https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3Aishon19) and more.. |
+| swiftlang/swift | [Comparable conformance for C++ strings](https://github.com/swiftlang/swift/pull/76223) |
+| flutter/flutter | [`ListTile` → `CupertinoListTile` migration](https://github.com/flutter/flutter/pull/154473) |
+| mui/material-ui | [`InitColorSchemeScript`: `let`/`const` over `var`](https://github.com/mui/material-ui/pull/43468) |
+| FlowiseAI/Flowise | [UX: autofocus on the add-node search input](https://github.com/FlowiseAI/Flowise/pull/2887) |
+| RaspberryPiFoundation/blockly | [CSS class APIs for block styling](https://github.com/RaspberryPiFoundation/blockly/pulls?q=is%3Apr+author%3Aishon19+is%3Amerged) and more.. |
 
 ### What I'm building
 
